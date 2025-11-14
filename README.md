@@ -1,8 +1,6 @@
 # **Rest Quest**
 
-> 🧘 Presented at the **GreatUniHack 2025**
-> 🥉 3rd Place in the Booking.com Challenge
-
+> **🥉 3rd Place** at the **GreatUniHack 2025** — **Booking.com Challenge**
 ---
 
 ## 🚀 Overview
