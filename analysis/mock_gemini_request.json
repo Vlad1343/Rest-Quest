@@ -1,0 +1,38 @@
+{
+  "voiceTranscript": "I'd love a spring gateway that mixes bold food with outdoor adventures. Budget is mid-range, ideally somewhere warm near the coast. Long flights stress me out, so closer to Europe or South America is perfect. I'm traveling solo after a tough product launch, so something restorative but still energizing would be amazing.",
+  "visualEmotionTranscript": [
+    {
+      "question": 1,
+      "prompt": "How are you feeling today?",
+      "spectrum": {
+        "sad": 0.4,
+        "happy": 0.35,
+        "angry": 0.15,
+        "neutral": 0.1
+      },
+      "notes": "Voice steady but eyes showed mild fatigue."
+    },
+    {
+      "question": 2,
+      "prompt": "What is something that recently made you smile or feel proud?",
+      "spectrum": {
+        "happy": 0.45,
+        "surprise": 0.25,
+        "neutral": 0.2,
+        "fear": 0.1
+      },
+      "notes": "Broke into a grin when describing the launch celebration."
+    },
+    {
+      "question": 3,
+      "prompt": "Imagine your ideal trip next month.",
+      "spectrum": {
+        "happy": 0.5,
+        "surprise": 0.2,
+        "sad": 0.15,
+        "angry": 0.15
+      },
+      "notes": "Enthusiastic gestures yet shoulders still tense."
+    }
+  ]
+}
